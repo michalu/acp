@@ -1,0 +1,12 @@
+{
+  "<|bos|>": 49159,
+  "<|end_of_cite|>": 49156,
+  "<|end_of_plugin|>": 49158,
+  "<|end_of_role|>": 49153,
+  "<|pad|>": 49161,
+  "<|start_of_cite|>": 49155,
+  "<|start_of_plugin|>": 49157,
+  "<|start_of_role|>": 49152,
+  "<|tool_call|>": 49154,
+  "<|unk|>": 49160
+}

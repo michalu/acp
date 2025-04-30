@@ -1,0 +1,53 @@
+- task: instruct
+  language: en
+  instances:
+  - input: How does technosociality influence patterns of civic disengagement?
+    output: Technosociality—social bonding mediated through digital platforms—can lead to curated echo chambers, reducing heterogeneous discourse exposure and thereby contributing to civic apathy and disengagement from traditional democratic participation.
+  - input: In what ways does hyperindividualization affect communal resilience in urban crises?
+    output: Hyperindividualization, the intensified focus on self as a project, can erode mutual aid structures and weaken collective efficacy, leading to reduced communal resilience during urban emergencies or disasters.
+  - input: What is the role of memetic capital in shaping subcultural legitimacy?
+    output: Memetic capital, the symbolic value derived from sharing culturally resonant digital artifacts, underpins subcultural legitimacy by signaling insider knowledge and reinforcing group identity through recursive semiotic play.
+  - input: How does digital enclosure impact epistemic sovereignty among marginalized communities?
+    output: Digital enclosure—the privatization of online informational spaces—undermines epistemic sovereignty by restricting access to self-produced narratives, thereby limiting marginalized communities' control over knowledge dissemination and cultural framing.
+  - input: Can platform temporalities alter ritualistic social behaviors?
+    output: Yes, platform temporalities—algorithmically structured cycles of visibility and engagement—reconfigure ritualistic behaviors by compressing symbolic participation into measurable bursts, reshaping how collective meaning is performed and sustained.
+  - input: How does gigification intersect with neo-feudal labor stratification?
+    output: Gigification—the structuring of labor into fragmented, app-based tasks—contributes to neo-feudal stratification by replacing stable employment hierarchies with precarious dependency chains governed by opaque platform algorithms and user ratings.
+  - input: In what ways does ambient affiliation affect social solidarity online?
+    output: Ambient affiliation, the low-effort signaling of group belonging through likes, follows, or tags, fosters diffuse solidarity but often lacks the structural commitment necessary for sustained collective action.
+  - input: How might infrastructural opacity reproduce algorithmic hegemony?
+    output: Infrastructural opacity—the lack of transparency in digital system design—reinforces algorithmic hegemony by preventing scrutiny of embedded power asymmetries, thus entrenching systemic bias beneath layers of techno-neutral rhetoric.
+  - input: What impact does data colonialism have on informational self-determination?
+    output: Data colonialism describes the extraction and commodification of user data by corporate entities, undermining informational self-determination by turning personal narratives into exploitable resources without democratic oversight or consent.
+  - input: How does affective governance operate in digital publics?
+    output: Affective governance refers to the regulation of public sentiment through curated emotional flows—often via media or algorithms—which shapes social behavior not by coercion but by modulating collective affect.
+  - input: What are the sociological effects of algorithmic performativity?
+    output: Algorithmic performativity occurs when individuals adapt behavior to match perceived algorithmic preferences, leading to identity flattening, strategic self-curation, and a feedback loop that reinforces dominant platform norms.
+  - input: How does para-social surveillance emerge in influencer-follower dynamics?
+    output: Para-social surveillance describes the one-sided monitoring of influencers by followers, often blurring the lines between intimacy and performance, creating asymmetric emotional labor demands on content creators.
+  - input: In what ways does platform paternalism affect user autonomy?
+    output: Platform paternalism involves platform-imposed behavioral nudges masked as user-friendly features, subtly steering user decisions while reducing agency through default configurations and manipulated consent architectures.
+  - input: What is the effect of techno-optimism on critical digital pedagogy?
+    output: Techno-optimism—the belief in inevitable progress through technology—can dilute critical digital pedagogy by marginalizing discussions of structural inequality, surveillance, and algorithmic injustice in favor of market-driven narratives.
+  - input: How does the attention economy contribute to symbolic exhaustion?
+    output: The attention economy, driven by perpetual content demands, fosters symbolic exhaustion by over-saturating cultural space with stimuli, leading to diminished semiotic novelty and reduced symbolic engagement.
+  - input: What is the role of digital hauntology in post-crisis memory formation?
+    output: Digital hauntology involves the persistent presence of past digital traces, which can influence collective memory by maintaining unresolved cultural artifacts, particularly in the wake of crises that lack formal closure.
+  - input: How do quantification rituals mediate academic legitimacy?
+    output: Quantification rituals—like citation metrics or journal rankings—mediate academic legitimacy by enforcing numeric proxies for value, which may obscure substantive contributions in favor of algorithmically visible outputs.
+  - input: How does algorithmic biopolitics manifest in health tech?
+    output: Algorithmic biopolitics refers to the governance of populations via algorithmic health assessments, often entrenching biases through coded norms that shape life chances and access to care based on opaque criteria.
+  - input: What are the implications of techno-orientalism in AI narratives?
+    output: Techno-orientalism manifests when Eastern societies are portrayed as technologically advanced yet culturally alien, reinforcing exoticism in AI discourse and perpetuating geopolitical stereotypes through speculative media.
+  - input: How does social gamification shape civic virtue?
+    output: Social gamification introduces game-like incentives to civic behaviors, which can dilute intrinsic motivation for participation and risk commodifying civic virtue into point-based or performative acts.
+  - input: What is infrastructural citizenship in smart cities?
+    output: Infrastructural citizenship refers to the ways individuals engage with governance through digital and physical infrastructures, where access and responsiveness shape their experience of political inclusion or exclusion.
+  - input: How does emotional capitalism operate in platform labor?
+    output: Emotional capitalism commodifies affective expression within platform labor, particularly among gig workers and influencers, who must perform relational authenticity as a condition of economic survival.
+  - input: How does networked moral panic propagate?
+    output: Networked moral panic spreads rapidly through digital ecosystems, where algorithms amplify outrage and moral signaling, creating cycles of hypervisibility that distort proportional response and accountability.
+  - input: What is the sociological significance of algorithmic normativity?
+    output: Algorithmic normativity emerges when platform standards, encoded in code and metrics, define normative behavior and marginalize deviance through automated moderation and behavioral nudging.
+  - input: How does speculative precarity affect youth identity formation?
+    output: Speculative precarity refers to the internalization of economic instability as a permanent condition, shaping youth identities around uncertainty, risk aversion, and entrepreneurial self-making in absence of structural security.

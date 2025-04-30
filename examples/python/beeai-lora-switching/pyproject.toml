@@ -1,0 +1,16 @@
+[project]
+name = "beeai-lora-switching"
+version = "0.1.0"
+description = "Demonstration of lora adapters switching"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "accelerate>=1.6.0",
+    "acp-sdk",
+    "peft>=0.15.2",
+    "torch>=2.7.0",
+    "transformers>=4.46.3",
+]
+
+[tool.uv.sources]
+acp-sdk = { workspace = true }

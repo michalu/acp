@@ -1,0 +1,14 @@
+{
+    "base_model": "ibm-granite/granite-3.3-2b-instruct",
+    "max_tokens": 128,
+    "adapters": {
+        "psychology": {
+            "path": "./adapters/lora-psychology",
+            "capability": "Provides information on psychology topics"
+        },
+        "sociology": {
+            "path": "./adapters/lora-sociology",
+            "capability": "Provides information on sociology topics"
+        }
+    }
+}

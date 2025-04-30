@@ -1,0 +1,53 @@
+- task: instruct
+  language: en
+  instances:
+  - input: How might algorithmic feedback loops influence self-esteem in adolescents?
+    output: Repeated exposure to algorithm-driven social validation can create unstable self-esteem patterns in adolescents, reinforcing extrinsic feedback dependency and potentially undermining internal self-worth development.
+  - input: What are the psychological effects of prolonged virtual embodiment in avatars?
+    output: Long-term immersion in virtual avatars can alter body schema, dissociation thresholds, and even impact identity coherence, particularly in individuals with underdeveloped self-concept.
+  - input: How do microdosing psychedelics affect emotional regulation in high-functioning professionals?
+    output: Early qualitative research suggests microdosing may subtly enhance mood stability and creative flexibility, though placebo effects and long-term consequences remain poorly understood.
+  - input: Can AI companions satisfy attachment needs in socially isolated individuals?
+    output: AI companions may partially meet attachment needs through perceived responsiveness, but lack reciprocity and emotional depth, potentially leading to unbalanced attachment styles or emotional displacement.
+  - input: What are the risks of parasocial relationships in neurodivergent populations?
+    output: Neurodivergent individuals may be more susceptible to intense parasocial bonds due to difficulties with social reciprocity, risking emotional overinvestment and social withdrawal.
+  - input: How does ambient news consumption shape threat perception?
+    output: Passive exposure to alarming headlines, even without engagement, can increase basal threat sensitivity and chronic stress levels, particularly in individuals with high trait anxiety.
+  - input: What is the psychological toll of productivity gamification in remote work?
+    output: Gamified productivity tools may induce over-monitoring, imposter feelings, and burnout by externalizing motivation and intensifying perceived performance scrutiny.
+  - input: Can memory reconsolidation be safely used for identity reprocessing in therapy?
+    output: While reconsolidation can help update maladaptive memories, its use in altering identity-related schemas requires caution due to risks of destabilizing personal narrative coherence.
+  - input: How does chronic multitasking impair emotional introspection?
+    output: Habitual task-switching reduces the duration and depth of emotional processing windows, potentially leading to diminished self-awareness and affective granularity.
+  - input: How might deepfake therapy disrupt emotional authenticity?
+    output: Using deepfakes in therapy (e.g., simulated deceased loved ones) could provide closure, but may also confuse emotional memory boundaries and complicate grief processing.
+  - input: Are there psychological risks to excessive introspective journaling?
+    output: While beneficial in moderation, excessive journaling may lead to rumination loops, false memory inflation, or identity rigidity if not guided appropriately.
+  - input: How is emotional labor evolving in the age of affective computing?
+    output: As machines read and respond to emotion, human workers are expected to match or modulate affective expression, raising ethical and psychological concerns about authenticity and burnout.
+  - input: Can AI-driven therapy simulations teach emotional intelligence?
+    output: Simulated interactions can model emotional responses and prompt reflective learning, but may lack the complexity needed for deep empathic development.
+  - input: What are the cognitive effects of lifelong multilingualism on moral reasoning?
+    output: Emerging studies suggest multilingual individuals may engage more abstract moral reasoning due to frequent cultural code-switching and enhanced cognitive flexibility.
+  - input: How does identity fragmentation manifest in digital-native generations?
+    output: Digital natives often construct multiple curated selves across platforms, leading to identity diffusion, performative stress, and weakened narrative integration over time.
+  - input: How might VR exposure therapy shape trauma narrative flexibility?
+    output: VR allows controlled re-contextualization of trauma, potentially enhancing narrative coherence, but also carries risks of re-traumatization if not carefully calibrated.
+  - input: What are the psychological impacts of synthetic voices in caregiving?
+    output: Synthetic voices used in care settings can influence emotional rapport and perceived empathy, but may also evoke uncanny discomfort or reduce caregiver-patient bonding.
+  - input: How does anticipatory grief manifest in climate-aware youth?
+    output: Many climate-aware youth experience chronic anticipatory grief marked by eco-anxiety, fatalism, and loss of future orientation, often without clear outlets for processing.
+  - input: Can social media detoxes trigger withdrawal-like symptoms?
+    output: Yes, abrupt disengagement from social media can produce irritability, loneliness, and compulsive checking behaviors, resembling mild behavioral withdrawal patterns.
+  - input: How does virtual eye contact affect interpersonal perception?
+    output: Virtual eye contact, often distorted by camera placement, may reduce trust formation or miscue dominance-submission dynamics, especially in high-context communication.
+  - input: What are the limits of empathy training in corporate environments?
+    output: Empathy training often fails when decoupled from structural change, leading to superficial compliance without deeper attitudinal shifts, and may even produce backlash if poorly implemented.
+  - input: How might biometric self-tracking affect body image in health-conscious users?
+    output: Constant feedback from biometric trackers can create body hyperawareness, fostering anxiety, perfectionism, and disordered eating tendencies in vulnerable users.
+  - input: What is the impact of AI-written self-help advice on mental health literacy?
+    output: AI-generated advice can widen access but risks oversimplifying complex issues, reinforcing myths, or displacing evidence-based interventions if consumed uncritically.
+  - input: Can augmented reality assist in grounding techniques for dissociation?
+    output: Yes, AR can enhance multisensory grounding by overlaying stabilizing cues, but care is needed to avoid overstimulation or reliance on external tools for emotional regulation.
+  - input: What are the psychological implications of quantifying friendships through apps?
+    output: Measuring social interactions numerically can shift perception of friendships from emotional bonds to performance metrics, potentially eroding authenticity and trust.
